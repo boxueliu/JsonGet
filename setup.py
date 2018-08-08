@@ -11,7 +11,7 @@ setup(
     description="html text parser,get the content form html page",
     long_description=open("README.md").read(),
     license="Apache",
-    url="https://github.com/desion/tidy_page",
+    url="https://github.com/cortexiphan1/JsonGet",
     packages=["JsonGet"],
     install_requires=["simplejson"],
     classifiers=[
